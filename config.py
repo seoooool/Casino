@@ -1,15 +1,15 @@
-token = ''
-api_cryptobot = ''
+token = '8983460752:AAFhcVIiTcW8m0BSy5wy6z3jzCWL5cLCQ0I'
+api_cryptobot = '655205:AAWdQvbS8s2ar15bfG4f9XmK0Oa7lOUCZu0'
 
-channal_id = -1002103256870
-ID_SEND_TRANSFER = -1002011813882
-URL_LOG_CHANNAL = -1002173546748
+channal_id = -1003992066221
+ID_SEND_TRANSFER = -1003661170573
+URL_LOG_CHANNAL = -1004477309248
 
-ADMIN = [6038457276]
-ADMIN_USERNAME = '@MamaYaWorkerSuka'
-URL_BOT = 'https://t.me/AloBiznes?DadaDengi'
-NICNAME = 'AloBiznes?DadaDengi'
-NAME_CASINO = 'CasinoDengi'
+ADMIN = [6442757600]
+ADMIN_USERNAME = '@LaminaSupport'
+URL_BOT = 'https://t.me/LuminaSpinBot'
+NICNAME = 'LuminaSpinBot'
+NAME_CASINO = 'LuminaSpinBot'
 
 LIMIT_STAVKA = 30
 lose_withdraw = 20
